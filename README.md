@@ -26,15 +26,10 @@ Install packages using conda
 ```
 $ conda install <package>
 ```
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
 ## Authors
 
-* **Joshua Stewart** - *Initial work* - [Josh453](https://github.com/josh453)
+* **Joshua Stewart** - [Josh453](https://github.com/josh453)
 
 ## License
 
@@ -42,6 +37,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](https://gi
 
 ## Acknowledgments
 
-* 
-* Inspiration
-* etc
+* Sebastian Raschka [GitHub](https://github.com/rasbt) - For the Twitter mask PNG and tutorial
+* Andres Mueller [GitHub](https://github.com/amueller) - For the WordCloud package and tutorial

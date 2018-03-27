@@ -37,5 +37,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](https://gi
 
 ## Acknowledgments
 
-* Sebastian Raschka [GitHub](https://github.com/rasbt) - For the Twitter mask PNG and tutorial
-* Andres Mueller [GitHub](https://github.com/amueller) - For the WordCloud package and tutorial
+* Sebastian Raschka - [GitHub](https://github.com/rasbt) - For the Twitter mask PNG and tutorial
+* Andres Mueller - [GitHub](https://github.com/amueller) - For the WordCloud package and tutorial

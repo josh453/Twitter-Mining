@@ -9,14 +9,16 @@ This project has 3 main components:
 Built using Python 3 and Jupyter Notebooks
 
 This project uses the following packages:
-* Pickle
-* OS
-* Twitter
-* Matplotlib
-* Numpy
-* Scipy
-* WordCloud
-* Collections
+* [Pickle](https://docs.python.org/3/library/pickle.html)
+* [OS](https://docs.python.org/3/library/os.html)
+* [Twitter](https://python-twitter.readthedocs.io/en/latest/getting_started.html)
+* [Random](https://docs.python.org/3/library/random.html)
+* [Matplotlib](https://matplotlib.org/)
+* [Numpy](http://www.numpy.org/)
+* [PIL](https://pillow.readthedocs.io/en/latest/)
+* [WordCloud](https://amueller.github.io/word_cloud/index.html)
+* [Collections](https://docs.python.org/3/library/collections.html)
+* [Palettable](https://jiffyclub.github.io/palettable/)
 
 Install packages using pip
 ```
